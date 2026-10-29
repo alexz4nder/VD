@@ -1,0 +1,124 @@
+{
+  "emptystr": "",
+  "breadcrumb": {
+    "homepage": "Početna",
+    "galery": "Galerija",
+    "catalog": "Katalog",
+    "catalogStrat": "Strateške igre",
+    "catalogFamily": "Porodične igre",
+    "catalogFunny": "Zabavne igre",
+    "about": "O nama",
+    "login": "Prijava",
+    "registration": "Registracija"
+  },
+  "app": {
+    "language": "Jezik"
+  },
+  "navbar": {
+    "homepage": "Početna",
+    "galery": "Galerija",
+    "catalog": "Katalog",
+    "catalogStrat": "Strateške igre",
+    "catalogFamily": "Porodične igre",
+    "catalogFunny": "Zabavne igre",
+    "about": "O nama",
+    "myAccount": "Moj nalog",
+    "login": "Uloguj se"
+  },
+  "loginView": {
+    "login": "Uloguj se",
+    "username": "Korisničko ime",
+    "password": "Lozinka",
+    "alredyLoggedIn": "Vec ste ulogovani",
+    "dontHaveAccount": "Nemate nalog?",
+    "registration": "Registracija"
+  },
+  "registration": {
+    "username": "Korisničko ime",
+    "password": "Lozinka",
+    "confirmPassword": "Ponovite lozinku",
+    "createAccount": "Kreiraj nalog",
+    "fieldsNotSet": "Da bi ste se registrovali morate da unsesete podatke u sva polja.",
+    "userAlredyExists": "Korisničko ime je zauzeto",
+    "repeatPasswordIncorrect": "Ponovljena lozinka nije ista kao prva"
+  },
+  "homepage": {
+    "bestGames": "Najbolje ocenjene igre",
+    "discountedGames": "Igre na popustu",
+    "tournaments": "Turniri"
+  },
+  "userProfile": {
+    "username": "Korisničko ime",
+    "logout": "Izloguj se",
+    "cart": "Korpa",
+    "totalPrice": "Ukupna cena",
+    "cartIsEmpty": "Korpa je prazna",
+    "buyCart": "Kupi korpu",
+    "purchaseHistory": "Prethodne kupovine",
+    "amount": "Količina"
+  },
+  "catalog": {
+    "sortByPrice": "Sortiraj po ceni",
+    "sortByName": "Sortiraj po imenu",
+    "reverseOrder": "Obrni redosled",
+    "sorting": "Sortiranje",
+    "minAndMaxPrice": "Minimalna i maksimalna cena",
+    "filter": "Filtriraj",
+    "search": "Pretraga",
+    "searchThis": "Pretraži",
+    "reset": "Resetuj filtere",
+    "exportPdf": "Skini katalog kao PDF"
+  },
+  "gameComponent": {
+    "price": "cena",
+    "discount": "popust",
+    "addToCart": "Dodaj u korpu",
+    "addedToCart": "Dodato u korpu",
+    "comments": "Komentari",
+    "leaveComment": "Ostavi komentar:",
+    "submitComment": "Objavi komentar",
+    "notLoggedIn": "Niste ulogovani",
+    "rating": "Ocena:",
+    "yourRating": "Tvoja ocena:",
+    "submitRating": "Dodaj ocenu",
+    "ratingNotSelected": "Niste odabrali ocenu"
+  },
+  "gamesText": [
+    {
+      "name": "Riziko",
+      "description": "OPIS PRVE IGRE"
+    },
+    {
+      "name": "Ne ljuti se čoveče",
+      "description": "OPIS DRUGE IGRE"
+    },
+    {
+      "name": "Aaaaaa",
+      "description": "OPIS TRECE IGRE"
+    },
+    {
+      "name": "Bbbbb",
+      "description": "OPIS CETVRTE IGRE"
+    },
+    {
+      "name": "IGRA 5",
+      "description": "OPIS PETE IGRE"
+    },
+    {
+      "name": "IGRA 6",
+      "description": "OPIS SESTE IGRE"
+    },
+    {
+      "name": "IGRA 7",
+      "description": "OPIS SEDME IGRE"
+    },
+    {
+      "name": "IGRA 8",
+      "description": "OPIS OSME IGRE"
+    },
+    {
+      "name": "IGRA 9",
+      "description": "OPIS DEVETE IGRE"
+    }
+  ]
+}

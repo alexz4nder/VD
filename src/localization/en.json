@@ -1,0 +1,97 @@
+{
+  "emptystr": "",
+  "breadcrumb": {
+    "homepage": "Homepage",
+    "galery": "Galery",
+    "catalog": "Catalog",
+    "catalogStrat": "Strategy games",
+    "catalogFamily": "Family games",
+    "catalogFunny": "Funny games",
+    "about": "About us"
+  },
+  "app": {
+    "language": "Language"
+  },
+  "navbar": {
+    "homepage": "Homepage",
+    "galery": "Galery",
+    "catalog": "Catalog",
+    "catalogStrat": "Strategy games",
+    "catalogFamily": "Family games",
+    "catalogFunny": "Funny games",
+    "about": "About us",
+    "myAccount": "My account",
+    "login": "Login"
+  },
+  "loginView": {
+    "login": "Uloguj se",
+    "username": "Korisničko ime",
+    "password": "Lozinka",
+    "alredyLoggedIn": "Vec ste ulogovani",
+    "dontHaveAccount": "Nemate nalog?",
+    "registration": "Registracija"
+  },
+  "registration": {
+    "username": "Korisničko ime",
+    "password": "Lozinka",
+    "confirmPassword": "Ponovite lozinku",
+    "createAccount": "Kreiraj nalog",
+    "fieldsNotSet": "Da bi ste se registrovali morate da unsesete podatke u sva polja.",
+    "userAlredyExists": "Korisničko ime je zauzeto",
+    "repeatPasswordIncorrect": "Ponovljena lozinka nije ista kao prva"
+  },
+  "homepage": {
+    "bestGames": "Top rated games",
+    "discountedGames": "Discounted games"
+  },
+  "userProfile": {
+    "username": "Korisničko ime",
+    "logout": "Izloguj se",
+    "cart": "Korpa",
+    "totalPrice": "Ukupna cena",
+    "cartIsEmpty": "Korpa je prazna",
+    "buyCart": "Kupi korpu",
+    "purchaseHistory": "Prethodne kupovine",
+    "amount": "Količina"
+  },
+  "catalog": {
+    "sortByPrice": "Sortiraj po ceni",
+    "sortByName": "Sortiraj po imenu",
+    "reverseOrder": "Obrni redosled",
+    "sorting": "Sortiranje",
+    "minAndMaxPrice": "Minimalna i maksimalna cena",
+    "filter": "Filtriraj",
+    "search": "Pretraga",
+    "searchThis": "Pretraži",
+    "reset": "Resetuj filtere",
+    "exportPdf": "Skini katalog kao PDF"
+  },
+  "gameComponent": {
+    "price": "price",
+    "discount": "discount",
+    "addToCart": "Add to cart",
+    "addedToCart": "Added to cart",
+    "comments": "Comments",
+    "leaveComment": "Leave a comment:",
+    "submitComment": "Publich comment",
+    "notLoggedIn": "Not logged in",
+    "rating": "Rating:",
+    "yourRating": "Your rating:",
+    "submitRating": "Add rating",
+    "ratingNotSelected": "Rating not selected"
+  },
+  "gamesText": [
+    {
+      "name": "Risc",
+      "description": "Risc is strategy table top game"
+    },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {}
+  ]
+}
